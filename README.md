@@ -9,4 +9,4 @@
 - Learn how to add and load image assets to Flutter projects.
 - Run Flutter apps on iOS Simulator, Android Emulator and physical devices.
 
-[^1]: My reference.
+[^1]: This was extracted from the syllabus of the course, [App Brewery Flutter Course Syllabus.pdf](https://github.com/manelcagigos/Flutter-Bootcamp/files/13465162/App.Brewery.Flutter.Course.Syllabus.pdf).
