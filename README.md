@@ -8,3 +8,5 @@
 - Learn to incorporate App Icons for iOS and Android.
 - Learn how to add and load image assets to Flutter projects.
 - Run Flutter apps on iOS Simulator, Android Emulator and physical devices.
+
+[^1]: My reference.
